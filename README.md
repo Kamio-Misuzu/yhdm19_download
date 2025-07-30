@@ -10,9 +10,6 @@
   </p>
 </div>
 
----
-
-## 🌸 Sakura Anime Download Script
 
 ### Main Interface
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/740d75c2-762b-480f-9145-4cd6f8b935b4" />
