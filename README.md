@@ -1,3 +1,11 @@
-# 樱花动漫网站下载器
+# 🌸 樱花动漫网站下载脚本
 
-<img width="1002" height="889" alt="image" src="https://github.com/user-attachments/assets/740d75c2-762b-480f-9145-4cd6f8b935b4" />
+## 主页面
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/740d75c2-762b-480f-9145-4cd6f8b935b4" />
+
+## 说明
+- 当前仅支持yhdm19.cc的网站视频, 例如: 在"视频URL"输入"https://www.yhdm19.cc/index.php/vod/play/id/30800/sid/1/nid/1.html",可以自动查找标题以及搜寻列表
+- 之后可以点击想要下载的序号以及修改保存路径即可下载
+- 下载的文件为樱花动漫中的ts视频文件, 如果想要转为mp4需要额外下载FFmpeg
+- 下载方式为从"player_aaaa", "iframe的src", "视频播放器配置" 以及 "查找m3u8地址"四种方式中提取
+- 该网站A播放源的视频片段存在master playlist中, 而其他播放源大多存在子 playlist中
