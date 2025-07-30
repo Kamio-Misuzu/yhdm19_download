@@ -1,8 +1,8 @@
 <div align="center">
   <h1>🌸 Sakura Anime Download Script</h1>
   <p>
-    <img src="https://img.shields.io/github/stars/Kamio-Misuzu/GUET_Share?style=social" alt="stars">
-    <img src="https://img.shields.io/github/forks/Kamio-Misuzu/GUET_Share?style=social" alt="forks">
+    <img src="https://img.shields.io/github/stars/Kamio-Misuzu/yhdm19_download?style=social" alt="stars">
+    <img src="https://img.shields.io/github/forks/Kamio-Misuzu/yhdm19_download?style=social" alt="forks">
   </p>
 </div>
 
